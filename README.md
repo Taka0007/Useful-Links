@@ -10,3 +10,25 @@
 
     
 </details>
+
+
+<details>
+    <summary>プログラム勉強関連</summary>
+     <ul>
+        <li><a href="https://www.flutter-study.dev/">Flutterアプリ制作</a></li>
+         <br>
+    </ul>
+
+</details>
+
+
+
+<details>
+    <summary>その他学習関連</summary>
+     <ul>
+        <li><a href="https://ocwx.ocw.u-tokyo.ac.jp/course_11405/">統計データ解析Ⅰ</a></li>
+         <br>
+         <li><a href="https://ocwx.ocw.u-tokyo.ac.jp/course_11408/">統計データ解析 Ⅱ</a>  </li>
+    </ul>
+
+</details>
