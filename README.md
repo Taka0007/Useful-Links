@@ -3,8 +3,14 @@
 <details>
     <summary>院試関連</summary>
      <ul>
+      <details>
+    <summary>院試関連</summary>
+     <ul>
         <li><a href="https://www.flutter-study.dev/">Flutterアプリ制作</a></li>
          <br>
+    </ul>
+
+</details>
     </ul>
 
 </details>
