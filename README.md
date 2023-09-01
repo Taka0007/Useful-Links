@@ -40,6 +40,20 @@
 
 
 <details>
+    <summary>Python</summary>
+     <ul>
+        <li><a href="https://pen.envr.tsukuba.ac.jp/~torarimon/?%B5%A1%B3%A3%B3%D8%BD%AC%C6%FE%CC%E7">機械学習入門</a></li>
+         <br> 
+         <li><a href="https://pen.envr.tsukuba.ac.jp/~torarimon/?python%C6%FE%CC%E7">Python入門</a></li>
+         <br>
+    </ul>
+
+</details>
+
+
+
+
+<details>
     <summary>その他学習関連</summary>
      <ul>
         <li><a href="https://ocwx.ocw.u-tokyo.ac.jp/course_11405/">統計データ解析Ⅰ</a></li>
